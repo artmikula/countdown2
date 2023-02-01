@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/countdown/static/css/main.073c9b0a.css",
-    "main.js": "/countdown/static/js/main.4331fd93.js",
-    "static/js/787.482db2ac.chunk.js": "/countdown/static/js/787.482db2ac.chunk.js",
-    "static/media/Max.png": "/countdown/static/media/Max.0b4b4855cfb58e3170cf.png",
-    "index.html": "/countdown/index.html",
-    "main.073c9b0a.css.map": "/countdown/static/css/main.073c9b0a.css.map",
-    "main.4331fd93.js.map": "/countdown/static/js/main.4331fd93.js.map",
-    "787.482db2ac.chunk.js.map": "/countdown/static/js/787.482db2ac.chunk.js.map"
+    "main.css": "/countdown2/static/css/main.073c9b0a.css",
+    "main.js": "/countdown2/static/js/main.f3cb4718.js",
+    "static/js/787.482db2ac.chunk.js": "/countdown2/static/js/787.482db2ac.chunk.js",
+    "static/media/Max.png": "/countdown2/static/media/Max.0b4b4855cfb58e3170cf.png",
+    "index.html": "/countdown2/index.html",
+    "main.073c9b0a.css.map": "/countdown2/static/css/main.073c9b0a.css.map",
+    "main.f3cb4718.js.map": "/countdown2/static/js/main.f3cb4718.js.map",
+    "787.482db2ac.chunk.js.map": "/countdown2/static/js/787.482db2ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.4331fd93.js"
+    "static/js/main.f3cb4718.js"
   ]
 }
