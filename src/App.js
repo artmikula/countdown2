@@ -1,21 +1,19 @@
-import logo from './logo.svg';
+import max from './Image.png';
 import './App.css';
+import CountDown from './components/CountDown';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <img src={max} className="App-logo" alt="max" />
+        <CountDown />
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
       </header>
     </div>
