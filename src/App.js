@@ -1,4 +1,4 @@
-import max from './Image.png';
+import max from './Max.png';
 import './App.css';
 import CountDown from './components/CountDown';
 
